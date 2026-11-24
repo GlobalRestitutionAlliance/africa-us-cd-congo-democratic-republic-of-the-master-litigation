@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
 
 - CIT-0001: https://digitallibrary.un.org/search | `03_Evidentiary_Exhibits/Immutable_Ledger/CD_01_UN_Digital_Library_-_Search.html` | `e3b0c44298fc1c14...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://au.int/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CD_04_African_Union.html` | `72ead2dcabcc4041...` | PENDING_LEGAL_REVIEW
@@ -18,12 +18,3 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0014: https://www.archives.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_National_Archives.html` | `b1be5889069b829d...` | PENDING_LEGAL_REVIEW
 - CIT-0015: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0016: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `669bb86e89453325...` | PENDING_LEGAL_REVIEW
-- CIT-0017: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_browser.html` | `05c0f0a2c7e2533c...` | PENDING_LEGAL_REVIEW
-- CIT-0018: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `8dffe6afccfb6c0b...` | PENDING_LEGAL_REVIEW
-- CIT-0019: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_browser.html` | `aed41c07ad8df3ba...` | PENDING_LEGAL_REVIEW
-- CIT-0020: https://www.justia.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Justia_browser.html` | `e5cfe97d067f02f1...` | PENDING_LEGAL_REVIEW
-- CIT-0021: https://www.loc.gov/item/?q=congo+free+state+atrocities | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Congo_Free_State_atrocities_browser.html` | `64ed83c7ad66cb3e...` | PENDING_LEGAL_REVIEW
-- CIT-0022: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/africa/ | `03_Evidentiary_Exhibits/Immutable_Ledger/National_Archives_UK_-_Africa_browser.html` | `057853e77ee16b9d...` | PENDING_LEGAL_REVIEW
-- CIT-0023: https://digitallibrary.un.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_Digital_Library_browser.html` | `0310344b2fbb1de4...` | PENDING_LEGAL_REVIEW
-- CIT-0024: https://www.ohchr.org/en/countries/democratic-republic-congo | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_DRC_browser.html` | `f6a3d93e393a0de4...` | PENDING_LEGAL_REVIEW
-- CIT-0025: https://data.worldbank.org/country/congo-dem-rep | `03_Evidentiary_Exhibits/Immutable_Ledger/World_Bank_DRC_browser.html` | `111c9a26c4de2f7f...` | PENDING_LEGAL_REVIEW
